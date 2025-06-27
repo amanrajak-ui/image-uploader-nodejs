@@ -27,16 +27,5 @@ A full-stack image uploader web app built using **Node.js**, **Express.js**, **M
 
 ---
 
-## 📁 Folder Structure
-image-uploader/
-│
-├── public/ # Static CSS files
-├── uploads/ # (Optional) For temporary file storage
-├── views/ # EJS templates
-│ ├── index.ejs
-│ └── success.ejs
-├── .env # Environment variables (Cloudinary keys, etc.)
-├── app.js # Main Express app
-├── package.json
-└── README.md
+
 
